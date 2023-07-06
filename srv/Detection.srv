@@ -1,0 +1,9 @@
+string label
+---
+float64 box_x
+float64 box_y
+float64 box_width
+float64 box_height
+float64 image_width
+float64 image_height
+bool in_sight_of_robot
